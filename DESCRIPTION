@@ -11,5 +11,4 @@ License: MIT + file LICENSE
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/benmarwick/myprojname
-BugReports: https://github.com/benmarwick/myprojname/issues
+
